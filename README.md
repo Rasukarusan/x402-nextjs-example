@@ -1,6 +1,7 @@
+# x402 Next.js デモ
+
 <img width="600" src="https://cdn-ak.f.st-hatena.com/images/fotolife/r/rasukarusan/20251124/20251124141418.jpg" />
 
-# x402 Next.js デモ
 
 [x402プロトコル](https://www.x402.org/)を使用した、コンテンツ課金機能付きNext.jsアプリケーションのデモです。
 
